@@ -3,6 +3,9 @@
 
 [![Deployed on Render](https://img.shields.io/badge/Render-Deployed-brightgreen)](https://personal-blog-tue5.onrender.com/)
 
+Project URL:
+(https://roadmap.sh/projects/personal-blog)
+
 A full-featured personal blog with admin panel, built with Python Flask. Deployed on Render with persistent storage.
 
 ## Features ✨
