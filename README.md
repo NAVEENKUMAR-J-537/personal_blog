@@ -1,7 +1,7 @@
 # Personal Blog Project
 # Personal Blog with Flask
 
-[![Deployed on Render](https://img.shields.io/badge/Render-Deployed-brightgreen)]
+[![Deployed on Render](https://img.shields.io/badge/Render-Deployed-brightgreen)](https://personal-blog-tue5.onrender.com/)
 
 A full-featured personal blog with admin panel, built with Python Flask. Deployed on Render with persistent storage.
 
